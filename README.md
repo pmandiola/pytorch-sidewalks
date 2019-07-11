@@ -1,1 +1,3 @@
-# pytorch-sidewalks
+# Sidewalks classification with PyTorch
+
+![](images/featured.PNG)
